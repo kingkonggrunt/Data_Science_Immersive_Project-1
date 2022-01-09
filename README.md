@@ -8,7 +8,7 @@ Your boss, who runs the product development team, is convinced that Pokemon Go's
 
 She wants you to program a prototype version of the game, and analyze the planned content to help the team calibrate the design.
 
---- 
+---
 
 ## Directions
 
@@ -23,7 +23,7 @@ We will be looking for the following things:
 
 ---
 
-## Requirements
+## Requirements 
 
 
 - Materials must be in a clearly commented Jupyter notebook.
@@ -41,13 +41,13 @@ We will be looking for the following things:
 
 - Depending on which Python version you use, you may need to watch out for [unexpected division behavior](http://stackoverflow.com/questions/21316968/division-in-python-2-7-and-3-3).
 
-- For some questions, you may want to brush up on [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/). 
+- For some questions, you may want to brush up on [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/).
 
 ---
 
 ### Project Feedback + Evaluation
 
-For all projects, students will be evaluated on a simple 4 point scale (0, 1, 2, or 3). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
+For all projects, students will be evaluated on a simple 4 point scale (0, 1, 2, or 3). Instructors will use this rubric when scoring student performance on each of the core project **requirements:**
 
 Score | Expectations
 ----- | ------------
